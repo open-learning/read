@@ -14,3 +14,10 @@ If you:
 - Don't need support for challenges
 
 Then `read` may be the application for you.
+
+## Technology
+
+- [`git4ol` publishing](//github.com/open-learning/git4ol/blob/master/publishing.md) : API
+- [`troopjs`](//github.com/troopjs/troopjs) : Base JavaScript framework
+- [`troopjs-contrib-com`](//github.com/troopjs-contrib/troopjs-contrib-com) : Component structure
+- [`troopjs-contrib-com-sequence`](//github.com/troopjs-contrib/troopjs-contrib-com-sequence) : Flow control
