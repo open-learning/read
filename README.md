@@ -1,6 +1,6 @@
-# Open Learning Read
+# Open Learning `read`
 
-`Read` is a light-weight web application for consuming [`git4ol` published](//github.com/open-learning/git4ol/blob/master/publishing.md) lessons.
+`read` is a light-weight web application for consuming [`git4ol` published](//github.com/open-learning/git4ol/blob/master/publishing.md) lessons.
 
 
 ## Summary
