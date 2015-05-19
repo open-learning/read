@@ -1,18 +1,16 @@
-# Open-Learning `read`
+# Open-Learning `tutor`
 
-`read` is a light-weight web application for consuming [`git4ol` published](//github.com/open-learning/git4ol/blob/master/publishing.md) lessons.
+`tutor` is a light-weight web application for consuming [`git4ol`](//github.com/open-learning/git4ol/blob/master/activities.md) activities.
 
 
 ## Summary
-
-Sometimes all you need is a web-based, read-only dirt-simple interface for consuming [`git4ol`](//github.com/open-learning/git4ol) lessons.
 
 If you ...
 
 - Publish your lessons as described in [`git4ol` publishing](//github.com/open-learning/git4ol/blob/master/publishing.md)
 - Host your lessons from your `git` repository (ex. [GitHub pages](//pages.github.com/))
 
-... then `read` may be the application for you.
+... then `tutor` may be the application for you.
 
 ## Technology
 
